@@ -5,7 +5,7 @@ python -m venv venv
 ```
 
 ```bash
-.\venv\Scripts\activate
+source venv/bin/activate
 ```
 
 ```bash
